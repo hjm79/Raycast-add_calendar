@@ -11,9 +11,6 @@ Raycast 자연어 기반 일정 등록 스크립트 입니다.  알프레드 fan
 
 <img width="80%" src="https://user-images.githubusercontent.com/51636240/213897585-240b7dec-0d1b-4075-b780-03579e574ceb.jpg">
 
-<img width="100%" alt="raycast_add_calednar" src="https://hjm79.top/wp-content/uploads/2023/01/raycast-caledar-add_event-1.mp4">
-
-
 
 
 
@@ -22,4 +19,9 @@ https://www.icloud.com/shortcuts/0f2e75efcbc643fc82bdbcd958a4885d
 
 그리고 실행하면 기본 캘린더에서도 자연어 기반의 일정 등록이 가능합니다.
 
-아래 링크로 다운받으시기 바랍니다.
+
+
+<img width="70%" src="https://user-images.githubusercontent.com/51636240/213897633-5d07c5c3-cccb-4ac6-8ab3-88b2ad15bd9b.mp4">
+
+
+
