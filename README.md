@@ -9,7 +9,7 @@ Raycast 자연어 기반 일정 등록 스크립트 입니다.  알프레드 fan
 /documents/parse.rb 로 저장되어야 합니다.
 
 
-<img width="100%" src="https://user-images.githubusercontent.com/51636240/213897585-240b7dec-0d1b-4075-b780-03579e574ceb.jpg">
+<img width="80%" src="https://user-images.githubusercontent.com/51636240/213897585-240b7dec-0d1b-4075-b780-03579e574ceb.jpg">
 
 <img width="100%" alt="raycast_add_calednar" src="https://hjm79.top/wp-content/uploads/2023/01/raycast-caledar-add_event-1.mp4">
 
