@@ -1,19 +1,21 @@
 # Raycast-add_calendar
 Raycast 자연어 기반 일정 등록 스크립트 입니다.  알프레드 fantastical용 제작하신분걸로 응용해뵜습니다.
-https://github.com/mollax/fanatstical_korean_alfred_workflow
+https://github.com/mollax/fanatstical_korean_alfred_workflow     
   
 
 
 
 
-기본 캘랜더용 자연어 일정등록 스크립트 입니다. fantastical 워크플로우 용을 참고하여 만들었습니다.
+
+기본 캘랜더용 자연어 일정등록 스크립트 입니다. fantastical 워크플로우 용을 참고하여 만들었습니다.      
   
-  
 
 
 
 
-아래 파일을 다운 받으신 후 문서 폴더에 압축해제 합니다.
+
+
+아래 파일을 다운 받으신 후 문서 폴더에 압축해제 합니다.   
 
 /documents/parse.rb 로 저장되어야 합니다.
   
